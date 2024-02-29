@@ -1,1 +1,6 @@
-Esto es un repositorio básico para aprender acerca de Git y Github que me permite conocer los comandos básicos de Git y Github.
+<!-- Esto es código Markdown .md -->
+# Git & Github
+
+![Git y Github](img/git_and_github.png)
+
+Esto es un repositorio de prueba para aprender acerca de git y github
